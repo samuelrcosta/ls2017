@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>com.github.vitalius:Frogger - Checkstyle report</title>
+    <link>https://github.com/vitalius/Frogger</link>
+    <description>com.github.vitalius:Frogger - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2017</copyright>
+    <item>
+      <title>File: 20,
+             Errors: 1741,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>https://github.com/vitalius/Frogger/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://github.com/vitalius/Frogger/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.Turtles.java">frogger/Turtles.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  103
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.AudioEfx.java">frogger/AudioEfx.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  99
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.CopCar.java">frogger/CopCar.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  13
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.Frogger.java">frogger/Frogger.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  196
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.FroggerUI.java">frogger/FroggerUI.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  101
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.Truck.java">frogger/Truck.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  24
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.ShortLog.java">frogger/ShortLog.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.Car.java">frogger/Car.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  20
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.Main.java">frogger/Main.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  390
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.HeatWave.java">frogger/HeatWave.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  106
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.FroggerCollisionDetection.java">frogger/FroggerCollisionDetection.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  91
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.Goal.java">frogger/Goal.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  36
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.Crocodile.java">frogger/Crocodile.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  70
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.WindGust.java">frogger/WindGust.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  89
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.CollisionObject.java">frogger/CollisionObject.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  28
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.GoalManager.java">frogger/GoalManager.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  97
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.MovingEntityFactory.java">frogger/MovingEntityFactory.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  116
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.Particle.java">frogger/Particle.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  27
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.LongLog.java">frogger/LongLog.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  48
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/vitalius/Frogger/checkstyle.html#frogger.MovingEntity.java">frogger/MovingEntity.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  55
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
